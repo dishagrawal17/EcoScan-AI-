@@ -1,0 +1,8 @@
+{
+  "name": "EcoScan AI",
+  "description": "A hyper-local, real-time waste management and recycling assistant powered by AI. Scan items to get local disposal rules, upcycling ideas, and find nearby recycling centers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
